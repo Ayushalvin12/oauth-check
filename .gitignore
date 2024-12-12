@@ -1,0 +1,17 @@
+# Ignore client.json (credentials file)
+client.json
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+.env
+
+# Ignore SQLite databases
+*.sqlite3
+db.sqlite3
+
+# Ignore OS-specific files
+.DS_Store
